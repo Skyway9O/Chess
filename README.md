@@ -1,2 +1,2 @@
 # Chess
-My chess game
+My *Python* chess game
