@@ -3,9 +3,13 @@ Mon jeu d'échec en *Python*.
 
 ## Gestion des fichiers
 
-Les fichiers `main.py`, `serveur.py` et `constant` et `JeuEchec_graphique_serveur.py` sont des fichiers à posséder sur le même ordinateur (l'odinateur servant de "serveur") et dans le même répertoire. Ensuite, le seul fichier à executer est `JeuEchec_graphique_serveur.py` sur l'ordinateur étant le "serveur".
+Les fichiers `main.py`, `serveur.py`, `constant` et `JeuEchec_graphique_serveur.py` sont des fichiers à posséder sur le même ordinateur (l'odinateur servant de "serveur") et dans le même répertoire. Ensuite, le seul fichier à executer est `JeuEchec_graphique_serveur.py` sur l'ordinateur étant le "serveur".
 
-Les fichiers `main_client.py`, `client.py` et `constant` et `JeuEchec_graphique_client.py` sont des fichiers à posséder sur le même ordinateur (l'ordinateur "client") et dans le même répertoire. Ensuite, le seul fichier à executer est `JeuEchec_graphique_client.py` sur l'ordinateur étant le "client".
+Les fichiers `main_client.py`, `client.py`, `constant` et `JeuEchec_graphique_client.py` sont des fichiers à posséder sur le même ordinateur (l'ordinateur "client") et dans le même répertoire. Ensuite, le seul fichier à executer est `JeuEchec_graphique_client.py` sur l'ordinateur étant le "client".
+
+Les fichiers `main.py`, `serveur.py`, `constant`, `main_client.py` et `client.py` ne nécessitent donc aucune exécution de votre part avant ou durant l'exécution des autres fichiers. 
+
+Le dossier `images` doit également se trouver dans le même répertoire que les autres fichiers sur les deux ordinateurs.
 
 ## Partie réseau
 
